@@ -1,4 +1,4 @@
-# netflix_yt
+# netflix
 
 A new Flutter project.
 

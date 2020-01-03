@@ -1,4 +1,4 @@
-package com.example.netflix_yt
+package com.example.netflix
 
 import android.os.Bundle
 
